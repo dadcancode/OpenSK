@@ -8,7 +8,7 @@ This repository contains a Rust implementation of a
 [FIDO2](https://fidoalliance.org/fido2/) authenticator.
 
 We developed this as a [Tock OS](https://tockos.org) application and it has been
-successfully tested on the following boards:
+successfully tested on the following new boards:
 
 *   [Nordic nRF52840-DK](https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF52840-DK)
 *   [Nordic nRF52840-dongle](https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF52840-Dongle)
